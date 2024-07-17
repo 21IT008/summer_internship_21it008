@@ -8,7 +8,7 @@ Internship Duration: 3rd June 2024 - 28th June 2024
 This internship focused on practical software development skills using Java and Python. The tasks and projects were designed to provide a comprehensive understanding of different aspects of software development.
 
 📝 Week-by-Week Progress
-
+<hr>
 Week 1
 
 3rd June 2024
@@ -42,7 +42,7 @@ Roles of Java in Software Development
 Discussed Java's role in various types of software applications.
 
 Week 2
-
+<hr>
 10th - 12th June 2024
 
 Learning Python
@@ -62,7 +62,7 @@ Web Scraping Techniques
 Practiced various web scraping techniques and tools.
 
 Week 3
-
+<hr>
 17th - 19th June 2024
 
 Task 1: Temperature Conversion Program
@@ -76,7 +76,7 @@ Task 2: Guessing Game
 Created a number guessing game with user feedback and multiple attempts.
 
 Week 4
-
+<hr>
 24th - 25th June 2024
 
 Task 3: Sudoku Solver
@@ -90,7 +90,7 @@ Task 4: Web Scraping Project
 Developed a web scraper to extract product data from an e-commerce site and save it in a CSV file.
 
 🔍 Project Highlights
-
+<hr>
 1. Temperature Conversion Program
 
 Languages Used: Java
@@ -116,7 +116,7 @@ Languages Used: Python
 Description: A script to scrape product information from an e-commerce website and save it in a CSV file.
 
 🤝 Connect with Me
-
+<hr>
 LinkedIn: [Om Bhatt](https://www.linkedin.com/in/om-bhatt-9587a9230/)
 
 Email: [bhattom404@gmail.com](mailto:bhattom404@gmail.com)
