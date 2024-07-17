@@ -1,5 +1,5 @@
 🌟 Summer Internship 2024 - Software Development Projects 🌟
-
+<hr>
 Welcome to my GitHub repository showcasing my projects from the Summer Internship 2024 at Prodigy Infotech. This repository includes my hands-on experience with Java and Python through various tasks and projects.
 
 🚀 Introduction
