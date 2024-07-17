@@ -8,6 +8,7 @@ Internship Duration: 3rd June 2024 - 28th June 2024
 This internship focused on practical software development skills using Java and Python. The tasks and projects were designed to provide a comprehensive understanding of different aspects of software development.
 
 📝 Week-by-Week Progress
+
 Week 1
 3rd June 2024
 Introduction of Company and Internship Plan
